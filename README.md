@@ -13,6 +13,9 @@ This is a small project from my second year of faculty.
      
      - Regresie liniara si un fel de clustering (#5)
      
+# Tools
+   - Anaconda - Jupyter Notebook as IDE
+   
      
 # CSV - Dataset
  Dataset's documentation can be found here:
