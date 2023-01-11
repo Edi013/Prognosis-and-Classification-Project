@@ -11,7 +11,7 @@ This is a small project from my second year of faculty.
      
      - Automated plotting: random plotting (#4) 
      
-     - Liniar regresion and a sort of clustering (#5)
+     - Liniar regression and a sort of clustering (#5)
      
 # Tools
    - Anaconda - Jupyter Notebook as IDE
