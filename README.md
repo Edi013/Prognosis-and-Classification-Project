@@ -1,6 +1,6 @@
 # Prognosis-and-Classification-Project
  
-This is a small project from my second year of faculty.
+This is a small project realized by me within my second year of faculty.
 
 # Overview
    
