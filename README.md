@@ -35,7 +35,8 @@ This is a small project realized by me within my second year of faculty.
          
          ---Channel: NeuralNine
          
-         ---Link: https://www.youtube.com/watch?v=t0EzVCvQjGE
+         ---Link: 
+         https://www.youtube.com/watch?v=t0EzVCvQjGE
          
      -- How to implement model's layers based on neurons and deep understaing of model's layers :
      
@@ -43,6 +44,7 @@ This is a small project realized by me within my second year of faculty.
          
          ---Channel: sentdex
          
-         ---Link: https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3
+         ---Link: 
+         https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3
          
     
