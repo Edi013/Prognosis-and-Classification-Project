@@ -4,11 +4,11 @@ This is a small project realized by me within my second year of faculty.
 
 # Overview
    
-     - Introducing the dataset (#1) 
+     - Introduce the dataset (#1) 
      
      - Count & Classification (#2) 
      
-     - Classifying data by attributes: manual plotting ( a sort of clustering ) (#3) 
+     - Classifying data by attributes: manual plotting - a sort of clustering (#3) 
      
      - Automated plotting: random plotting (#4) 
      
